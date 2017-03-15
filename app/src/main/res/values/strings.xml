@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RepasoParcial</string>
+    <string name="username">Nombre Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="Button_name">Ingresar</string>
+    <string name="text_help">¿Tienes cuenta?, Si no Registrate</string>
+    <string name="name">Nombre</string>
+    <string name="Email">Correo Electronico</string>
+    <string name="user">Usuario</string>
+    <string name="conf_password">Confirmar contraseña</string>
+</resources>
