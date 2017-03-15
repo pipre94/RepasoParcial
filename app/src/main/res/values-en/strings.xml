@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Repaso Parcial</string>
+    <string name="username">Name User</string>
+    <string name="password">Password</string>
+    <string name="Button_name">To Enter</string>
+    <string name="text_help">Have an account ?, If you do not Register</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="user">User</string>
+    <string name="conf_password">Confirm Password</string>
+    <string name="Registrarse">Check in</string>
+</resources>
