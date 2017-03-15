@@ -9,4 +9,6 @@
     <string name="user">Usuario</string>
     <string name="conf_password">Confirmar contraseña</string>
     <string name="Registrarse">Registrarse</string>
+    <string name="str_title_toolbar">Crear Cuenta</string>
+
 </resources>
